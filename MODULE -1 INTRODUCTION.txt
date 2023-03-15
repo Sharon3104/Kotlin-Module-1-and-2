@@ -1,0 +1,95 @@
+1) What is software?
+Software refers to the set of programs, data, and instructions that tell a computer or other electronic device what to do. In general, software can be thought of as the intangible part of a computer system, as opposed to the hardware which is the physical, tangible part.
+
+There are many different types of software, including operating systems, application software, utility software, and programming languages. Operating systems are the foundational software that run on a computer and manage its resources, while application software is designed to perform specific tasks, such as word processing, web browsing, or gaming. Utility software is used to maintain and optimize a computer system, and programming languages are used to create software applications.
+
+Overall, software is essential to the functioning of modern computer systems, and it is constantly evolving as new technologies emerge and new needs arise.
+
+2) Types of Application.
+There are many different types of applications, each designed to perform specific tasks or serve specific purposes. Here are some common types of applications:
+
+1. Productivity applications: These applications are designed to help users perform tasks related to work, such as word processing, spreadsheet creation, and presentation design.
+
+2. Communication applications: These applications are used for communication purposes such as email, instant messaging, video conferencing, and social media platforms.
+
+3. Entertainment applications: These applications are designed for leisure and entertainment, such as games, music, video, and social media platforms.
+
+4. Education applications: These applications are designed for learning and educational purposes, such as online courses, educational games, and language learning software.
+
+5. Utility applications: These applications are designed to perform specific tasks, such as file compression, system maintenance, security, and backup.
+
+6. Lifestyle applications: These applications are designed to assist users with tasks related to their lifestyle, such as fitness tracking, diet management, and travel planning.
+
+7. Business applications: These applications are designed for businesses to perform specific functions such as accounting, inventory management, customer relationship management (CRM), and enterprise resource planning (ERP).
+
+Overall, the different types of applications are tailored to meet different needs and serve different purposes, and new types of applications continue to emerge as technology evolves.
+
+3) What is Mobile Application?
+	A mobile application, or "app" for short, is a software program designed to run on mobile devices such as smartphones and tablets. Mobile applications are developed specifically for mobile platforms, and they are typically available for download from app stores such as the Apple App Store or Google Play Store.
+
+	Mobile applications can serve a wide range of purposes, from entertainment and social networking to productivity and business. Some common types of mobile applications include:
+
+1. Games: Mobile games are among the most popular types of mobile applications. They range from simple puzzle games to complex, multiplayer games that require advanced graphics and processing power.
+
+2. Social networking: Social networking apps allow users to connect with friends, family, and other users around the world. Popular examples include Facebook, Instagram, and Twitter.
+
+3. Productivity: Productivity apps are designed to help users be more efficient and organized. Examples include to-do lists, calendar apps, and note-taking apps.
+
+4. E-commerce: E-commerce apps allow users to shop online and make purchases from their mobile devices. Examples include Amazon, eBay, and Etsy.
+
+5. Travel: Travel apps provide users with information about destinations, flights, and accommodations, as well as tools for booking travel and managing itineraries.
+
+6. Health and fitness: Health and fitness apps are designed to help users track their physical activity, monitor their diet, and achieve their fitness goals.
+
+Overall, mobile applications have become an integral part of modern life, and they continue to evolve and expand as mobile technology advances.
+
+Mobile applications and web applications have some key differences in terms of how they are developed, accessed, and used. Here are some of the main differences between the two:
+
+Development: Mobile applications are developed specifically for mobile platforms such as Android or iOS, using programming languages like Java, Kotlin, or Swift. Web applications, on the other hand, are developed using web technologies like HTML, CSS, and JavaScript.
+
+Access: Mobile applications are installed directly on a mobile device and accessed through an icon on the device's home screen. Web applications, on the other hand, are accessed through a web browser and do not require installation.
+
+User experience: Mobile applications offer a more immersive and personalized user experience compared to web applications. Mobile apps can take advantage of features like touch gestures, camera, and GPS, and they can be optimized for the smaller screen sizes of mobile devices. Web applications can also provide a good user experience, but they are limited by the capabilities of web browsers.
+
+Performance: Mobile applications tend to perform better than web applications, as they can take advantage of the hardware and software features of the mobile device. Web applications, on the other hand, rely on the capabilities of the web browser and the internet connection.
+
+Offline functionality: Mobile applications can work offline or with limited connectivity, as they can store data on the device itself. Web applications require an internet connection to function.
+
+Overall, both mobile applications and web applications have their own advantages and disadvantages, and the choice between the two depends on the specific needs and goals of the application.
+
+
+4) What is deffrent between Mobile Application and Web Application?
+
+Mobile applications and web applications have some key differences in terms of how they are developed, accessed, and used. Here are some of the main differences between the two:
+
+1. Development: Mobile applications are developed specifically for mobile platforms such as Android or iOS, using programming languages like Java, Kotlin, or Swift. Web applications, on the other hand, are developed using web technologies like HTML, CSS, and JavaScript.
+
+2. Access: Mobile applications are installed directly on a mobile device and accessed through an icon on the device's home screen. Web applications, on the other hand, are accessed through a web browser and do not require installation.
+
+3. User experience: Mobile applications offer a more immersive and personalized user experience compared to web applications. Mobile apps can take advantage of features like touch gestures, camera, and GPS, and they can be optimized for the smaller screen sizes of mobile devices. Web applications can also provide a good user experience, but they are limited by the capabilities of web browsers.
+
+4. Performance: Mobile applications tend to perform better than web applications, as they can take advantage of the hardware and software features of the mobile device. Web applications, on the other hand, rely on the capabilities of the web browser and the internet connection.
+
+5. Offline functionality: Mobile applications can work offline or with limited connectivity, as they can store data on the device itself. Web applications require an internet connection to function.
+
+Overall, both mobile applications and web applications have their own advantages and disadvantages, and the choice between the two depends on the specific needs and goals of the application.
+
+5) Who developed Android?
+Android was developed by a team of developers at Android Inc., a company founded in 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White. The company was initially focused on developing an operating system for digital cameras, but later shifted its focus to developing an operating system for mobile devices.
+
+In 2005, Google acquired Android Inc. and the development of the Android operating system continued under the leadership of Andy Rubin, who became the Senior Vice President of Mobile and Digital Content at Google. The first version of the Android operating system, Android 1.0, was released in 2008.
+
+Since then, Android has become the most widely used mobile operating system in the world, powering millions of smartphones, tablets, and other devices. Google continues to lead the development of the Android operating system, with new versions and updates being released regularly.
+
+
+
+
+
+
+
+
+
+
+
+
+
